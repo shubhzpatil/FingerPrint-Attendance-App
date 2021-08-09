@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_user"
+            android:icon="@drawable/ic_person_user"
+            android:title="New Student" />
+        <item
+            android:id="@+id/nav_exiting_user"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="Existing Students" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_perm_contact_calendar_black_24dp"
+            android:title="Attendence Report" />
+        <item
+            android:id="@+id/nav_Take_Att"
+            android:icon="@drawable/ic_fingerprint_black_24dp"
+            android:title="Take Attendeance" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

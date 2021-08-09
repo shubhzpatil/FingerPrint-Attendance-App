@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710747796546",
+    "firebase_url": "https://fingerprintattendence-282c2.firebaseio.com",
+    "project_id": "fingerprintattendence-282c2",
+    "storage_bucket": "fingerprintattendence-282c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710747796546:android:c3dcdf499faabea5",
+        "android_client_info": {
+          "package_name": "com.example.mega2.final_livw_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710747796546-v5cpd0f81qfdpvuk3dsf047o2e94cub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyumb5_SD5rNSo6Zrb1vRluRmmCZq2rts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710747796546-v5cpd0f81qfdpvuk3dsf047o2e94cub3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
